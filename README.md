@@ -37,7 +37,7 @@ You can use cPickle.load(open(filename)) to load the numpy/scipy objects x, y, t
 
 ![](https://github.com/cszhangzhen/MVPool/blob/main/fig/node-classification.png)
 
-Just execuate the following command for node classification task:
+Just execute the following command for node classification task:
 ```
 python main_node_classification.py
 ```
